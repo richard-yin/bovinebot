@@ -11,3 +11,5 @@ debug.log
 /tags
 /atom-shell/
 /static/components/
+
+config.js

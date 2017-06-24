@@ -1,1 +1,3 @@
-console.log('Hello World!');
+var config = require('./config');
+global.conn = require('./connection');
+
